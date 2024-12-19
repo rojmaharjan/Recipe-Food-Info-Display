@@ -15,6 +15,7 @@ The Recipe-Food-Info-Display is a web application designed to make exploring rec
 🔧 Built With:
 
 React.js: For building a dynamic and responsive user interface.
+
 CSS/Bootstrap: For designing a visually appealing layout.
 
 "Visit here : https://recipe-food-info-display.vercel.app/ "
