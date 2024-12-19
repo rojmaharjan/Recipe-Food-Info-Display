@@ -14,3 +14,6 @@ This project leverages my frontend development skills, particularly in React.js,
 
 "Visit here : https://recipe-food-info-display.vercel.app/ "
 
+![Demo Image of Recipe Application](public/Recipe.png)
+
+
